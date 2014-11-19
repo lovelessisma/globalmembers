@@ -1,0 +1,20 @@
+[24-May-2014 22:02:47 America/New_York] height: 80 - width: 54
+[24-May-2014 22:03:53 America/New_York] height: 312.55 - width: 235
+[27-May-2014 11:51:31 America/New_York] height: 346.25 - width: 235
+[28-May-2014 16:02:24 America/New_York] height: 48 - width: 48
+[07-Jun-2014 14:14:17 America/New_York] PHP Fatal error:  Call to undefined method clsModelo::MultiDelete() in /home/inuqorg/public_html/intranet/views/process/mailmodels-list.php on line 14
+[07-Jun-2014 14:14:32 America/New_York] PHP Fatal error:  Call to undefined method clsModelo::MultiDelete() in /home/inuqorg/public_html/intranet/views/process/mailmodels-list.php on line 14
+[07-Jun-2014 21:38:33 America/New_York] PHP Fatal error:  Class 'clsUsuario' not found in /home/inuqorg/public_html/intranet/views/admin/hierarchy-list.php on line 9
+[08-Jun-2014 08:37:15 America/New_York] PHP Fatal error:  Class 'clsUsuario' not found in /home/inuqorg/public_html/intranet/views/admin/hierarchy-list.php on line 9
+[08-Jun-2014 13:14:31 America/New_York] PHP Fatal error:  Class 'clsUsuario' not found in /home/inuqorg/public_html/intranet/views/admin/hierarchy-list.php on line 9
+[08-Jun-2014 19:19:27 America/New_York] PHP Fatal error:  Class 'clsUsuario' not found in /home/inuqorg/public_html/intranet/views/admin/hierarchy-list.php on line 9
+[08-Jun-2014 21:03:12 America/New_York] PHP Fatal error:  Call to a member function Listar() on a non-object in /home/inuqorg/public_html/intranet/views/process/mails-form.php on line 175
+[08-Jun-2014 21:04:19 America/New_York] PHP Fatal error:  Call to a member function Listar() on a non-object in /home/inuqorg/public_html/intranet/views/process/mails-form.php on line 175
+[09-Jun-2014 11:45:02 America/New_York] PHP Fatal error:  Call to a member function Listar() on a non-object in /home/inuqorg/public_html/intranet/email-details.php on line 45
+[09-Jun-2014 11:45:56 America/New_York] PHP Fatal error:  Call to a member function Listar() on a non-object in /home/inuqorg/public_html/intranet/email-details.php on line 46
+[09-Jun-2014 11:46:27 America/New_York] PHP Fatal error:  Call to a member function Listar() on a non-object in /home/inuqorg/public_html/intranet/email-details.php on line 46
+[09-Jun-2014 11:46:35 America/New_York] PHP Fatal error:  Class 'Db' not found in /home/inuqorg/public_html/intranet/bussiness/empresas.php on line 6
+[15-Jun-2014 19:45:01 America/New_York] PHP Fatal error:  Class 'PHPExcel' not found in /home/inuqorg/public_html/intranet/adata/Db.class.php on line 277
+[17-Jun-2014 12:56:06 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 58 bytes) in /home/inuqorg/public_html/intranet/common/PHPExcel/Worksheet.php on line 1218
+[17-Jun-2014 12:56:39 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41 bytes) in /home/inuqorg/public_html/intranet/common/PHPExcel/Cell/DefaultValueBinder.php on line 95
+[20-Jun-2014 00:50:32 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 59 bytes) in /home/inuqorg/public_html/intranet/common/PHPExcel/Worksheet.php on line 1218

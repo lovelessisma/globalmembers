@@ -1,0 +1,1 @@
+<iframe src="blog/index.php" frameborder="0" width="100%" height="100%" marginwidth="100%" marginheight="100%"></iframe>

@@ -1,0 +1,2355 @@
+=== 2014-04-23 07:44:10 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => apache_pb2.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php5006.tmp
+            [error] => 0
+            [size] => 1463
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2014-04-23 07:45:29 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => apache_pb.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php85D6.tmp
+            [error] => 0
+            [size] => 1385
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2014-04-23 09:18:43 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 10168119_642262352516413_5090909463825607970_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpDFBB.tmp
+            [error] => 0
+            [size] => 72610
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2014-04-23 09:26:49 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Penguins.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php4DAB.tmp
+            [error] => 0
+            [size] => 192277
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2014-04-23 09:28:31 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 10255734_623528284395367_4369679849659051584_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD9D4.tmp
+            [error] => 0
+            [size] => 24132
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 09:28:37 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF12C.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 09:32:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Penguins.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php51A4.tmp
+            [error] => 0
+            [size] => 192277
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 09:33:58 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpDA25.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 09:36:49 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Tulips.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php7339.tmp
+            [error] => 0
+            [size] => 620888
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 09:38:36 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 10172836_1473620352867100_738002393212984511_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php169A.tmp
+            [error] => 0
+            [size] => 47343
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 220
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 10:01:16 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Hydrangeas.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD45E.tmp
+            [error] => 0
+            [size] => 595284
+        )
+
+)
+
+POST:Array
+(
+    [value] => images/user-nosetimg.jpg
+    [post] => upload.php
+    [width] => 245
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 10:09:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2FB8.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [value] => 
+    [post] => upload.php
+    [width] => 245
+    [height] => 245
+    [crop] => true
+)
+
+=== 2014-04-23 10:54:15 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Penguins.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php589E.tmp
+            [error] => 0
+            [size] => 192277
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 10:55:54 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => tumblr_n1dv7aPyk91sq5rugo1_1280.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD981.tmp
+            [error] => 0
+            [size] => 53828
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 10:56:42 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => windows-8.2-search-2-100040611-orig.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php95AF.tmp
+            [error] => 0
+            [size] => 528898
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 10:58:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => screen_search.fw.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php5B20.tmp
+            [error] => 0
+            [size] => 314801
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:01:06 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => screen_search.fw.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php9E97.tmp
+            [error] => 0
+            [size] => 314801
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:01:24 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => time-is-money.gif
+            [type] => image/gif
+            [tmp_name] => C:\xampp\tmp\phpE509.tmp
+            [error] => 0
+            [size] => 10743
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:02:39 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => screen_error.fw.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpB01.tmp
+            [error] => 0
+            [size] => 128026
+        )
+
+)
+
+POST:Array
+(
+    [value] => images/user-nosetimg.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:02:59 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => tumblr_n1dv7aPyk91sq5rugo1_1280.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php577C.tmp
+            [error] => 0
+            [size] => 53828
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/images/user-nosetimg.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:04:37 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => tumblr_n1dv7aPyk91sq5rugo1_1280.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD5B1.tmp
+            [error] => 0
+            [size] => 53828
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/images/user-nosetimg.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:19:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => screen_error.fw.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php9411.tmp
+            [error] => 0
+            [size] => 128026
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/images/user-nosetimg.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:21:37 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-peru.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php667D.tmp
+            [error] => 0
+            [size] => 76495
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:23:49 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-peru.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php692D.tmp
+            [error] => 0
+            [size] => 76495
+        )
+
+)
+
+POST:Array
+(
+    [value] => /iunioquality/media/images/a005ee1a316e28559062f6ebaa70f7913b2d0537.jpg
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:27:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-peru.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpAFEE.tmp
+            [error] => 0
+            [size] => 76495
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 205
+    [height] => 205
+    [crop] => true
+)
+
+=== 2014-04-23 11:28:46 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-peru.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpF0C5.tmp
+            [error] => 0
+            [size] => 76495
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:30:17 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => fondo.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php5504.tmp
+            [error] => 0
+            [size] => 253872
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:42:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ubuntu1.bmp
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:44:39 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => fondoc.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php7CC2.tmp
+            [error] => 0
+            [size] => 444849
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:45:07 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-brasil.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpEB2E.tmp
+            [error] => 0
+            [size] => 123521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:45:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php285E.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:46:09 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ceo ronny rodriguez.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpDB49.tmp
+            [error] => 0
+            [size] => 30847
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:47:07 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Start-screen-600x337.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpBE86.tmp
+            [error] => 0
+            [size] => 41436
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:47:15 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => vicepresident.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpDFFC.tmp
+            [error] => 0
+            [size] => 33982
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:50:09 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Greenshot_2011-09-21_17-38-081.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php87B0.tmp
+            [error] => 0
+            [size] => 115166
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:52:06 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => modelo php.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php50E9.tmp
+            [error] => 0
+            [size] => 209043
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 11:54:31 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => win8screenshot-large_mini.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php85A0.tmp
+            [error] => 0
+            [size] => 307810
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:05:06 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php35CE.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:06:19 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php51F6.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:06:35 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php92FD.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:06:53 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpD960.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:11:25 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpFE10.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:13:55 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php4A9B.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:14:53 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php2ADC.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:17:48 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-brasil.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpD81C.tmp
+            [error] => 0
+            [size] => 123521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:18:41 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpA635.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:19:10 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-brasil.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php1897.tmp
+            [error] => 0
+            [size] => 123521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:19:44 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php9B9C.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:21:01 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpC720.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:21:59 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-brasil.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpAC32.tmp
+            [error] => 0
+            [size] => 123521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:23:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-argentina.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpDF92.tmp
+            [error] => 0
+            [size] => 41427
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:24:12 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-brasil.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpB355.tmp
+            [error] => 0
+            [size] => 123521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:24:40 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-chile.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php1F13.tmp
+            [error] => 0
+            [size] => 39862
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 12:24:44 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bandera-peru.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php30EF.tmp
+            [error] => 0
+            [size] => 76495
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 13:23:04 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => bcp_ico.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpa5CWqn
+            [error] => 0
+            [size] => 12034
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 13:24:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 42475146_2.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpbvEIrt
+            [error] => 0
+            [size] => 15311
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 13:25:25 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => agente-bcp_f.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpPcOL7J
+            [error] => 0
+            [size] => 28151
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 13:30:08 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => logo_bcp.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpxt6k2d
+            [error] => 0
+            [size] => 85090
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-23 22:42:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => imagesCAOATPYU.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF19F.tmp
+            [error] => 0
+            [size] => 8328
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-24 21:10:32 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => spike.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php207C.tmp
+            [error] => 0
+            [size] => 560557
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-24 22:45:59 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => wallpaper-171628.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8579.tmp
+            [error] => 0
+            [size] => 141521
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-24 22:46:03 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Catbug_by_sircinnamon-d5riz9k.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php94BC.tmp
+            [error] => 0
+            [size] => 96027
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-24 22:46:33 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => wallpaper-3012796.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA6A.tmp
+            [error] => 0
+            [size] => 390996
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-24 22:46:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => spike.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php1DD4.tmp
+            [error] => 0
+            [size] => 560557
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 03:07:12 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => tumblr_mzh86nmnmi1rnlorio1_400.gif
+            [type] => image/gif
+            [tmp_name] => C:\xampp\tmp\phpAACD.tmp
+            [error] => 0
+            [size] => 2038444
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:19:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Logo_inuq.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpG8LTaM
+            [error] => 0
+            [size] => 209082
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:33:02 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Abamex.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phprdPTQG
+            [error] => 0
+            [size] => 33778
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:34:39 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Abamex.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php3qIET1
+            [error] => 0
+            [size] => 17994
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:36:41 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Abamex.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php1oVsf9
+            [error] => 0
+            [size] => 23445
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:45:32 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ceo ronny rodriguez.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpd6idzB
+            [error] => 0
+            [size] => 30847
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-04-25 10:52:08 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => vicepresident.png
+            [type] => image/png
+            [tmp_name] => /tmp/php2N0ewm
+            [error] => 0
+            [size] => 33982
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-05-09 19:30:04 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => The Quality Awards 2010 WINNER (1).png
+            [type] => image/png
+            [tmp_name] => /tmp/phpDXwP6y
+            [error] => 0
+            [size] => 406233
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-09 19:34:25 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Ronny-R-2010.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpb123VL
+            [error] => 0
+            [size] => 88361
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-09 19:57:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => iis-8.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpJ3snAH
+            [error] => 0
+            [size] => 58693
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-10 13:46:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Windows_8_Licensing_Guide.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpAWidbH
+            [error] => 0
+            [size] => 487795
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 03
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-12 21:00:33 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 4_25_2012_5_29_14_PM_Manual_de_Microsoft_Expression_Blend.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpU9AfXT
+            [error] => 0
+            [size] => 837384
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 03
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-15 11:28:42 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => QueEs_RSE.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpaVr74H
+            [error] => 0
+            [size] => 163490
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 03
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-19 13:37:01 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => evento.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpp3Fv2h
+            [error] => 0
+            [size] => 83220
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 04
+    [height] => 235
+    [crop] => false
+    [idorigen] => 1
+)
+
+=== 2014-05-19 13:40:15 ===============================
+FILES:Array
+(
+)
+
+POST:Array
+(
+)
+
+=== 2014-05-19 14:03:16 ===============================
+FILES:Array
+(
+)
+
+POST:Array
+(
+)
+
+=== 2014-05-24 22:02:47 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 10334312_651066351650844_7261495698918967806_s.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpAaM0zf
+            [error] => 0
+            [size] => 2289
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-05-24 22:03:53 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 10258409_10201711719543478_8247736472891636459_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpFbGxJA
+            [error] => 0
+            [size] => 13142
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-05-24 22:06:19 ===============================
+FILES:Array
+(
+)
+
+POST:Array
+(
+)
+
+=== 2014-05-27 11:51:31 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => carmen_foto.png
+            [type] => image/png
+            [tmp_name] => /tmp/php66ddL9
+            [error] => 0
+            [size] => 686418
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-05-28 15:29:29 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => beneficios_peru_2014.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpVwbRUv
+            [error] => 0
+            [size] => 1689930
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 01
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-05-28 16:02:24 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ACEROS FEDERALES C.A..jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php1D6mQ4
+            [error] => 0
+            [size] => 1686
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
+=== 2014-06-05 13:34:56 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Carta De Indicación Perú.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /tmp/phpHciaVQ
+            [error] => 0
+            [size] => 173292
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-05 13:41:29 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php0KwUDf
+            [error] => 0
+            [size] => 14795
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-05 13:41:56 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ShowRoom.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpPgeUnk
+            [error] => 0
+            [size] => 132137
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-05 18:52:52 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo2.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpYDuPu9
+            [error] => 0
+            [size] => 121978
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-05 18:57:37 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Publicidad Perú - 14 De Nov 2014.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpSzWKDV
+            [error] => 0
+            [size] => 1689930
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-06 03:09:34 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Publicidad Perú.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpSZkqaP
+            [error] => 0
+            [size] => 1160379
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-06 03:21:34 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo2.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpPcvo2l
+            [error] => 0
+            [size] => 121978
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-07 18:58:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => anon36.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpxIurPk
+            [error] => 0
+            [size] => 1654
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-07 23:00:52 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => anon36.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpSMqL5U
+            [error] => 0
+            [size] => 1654
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-09 09:58:03 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo2.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpzRm30I
+            [error] => 0
+            [size] => 121978
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-09 10:05:24 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Publicidad Perú.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpvhG2dn
+            [error] => 0
+            [size] => 1160379
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-09 14:13:44 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo2.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpMjNXPI
+            [error] => 0
+            [size] => 121978
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-13 23:56:06 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Formulario de Condecoraciones.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /tmp/phpaAqhTv
+            [error] => 0
+            [size] => 31231
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-13 23:57:56 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Membresía.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpU5jslo
+            [error] => 0
+            [size] => 462562
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 00
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-14 02:36:56 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Carta De Indicación Perú.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpifMqAd
+            [error] => 0
+            [size] => 258584
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 03
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-19 15:21:28 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Relacional.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /tmp/phpBMBm94
+            [error] => 0
+            [size] => 12481
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 03
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-19 15:28:41 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Relacional.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /tmp/php4KmFLB
+            [error] => 0
+            [size] => 12481
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 01
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-19 15:39:37 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => INUQ_logo.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php8Zk0RP
+            [error] => 0
+            [size] => 14795
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 01
+    [height] => 235
+    [crop] => false
+)
+
+=== 2014-06-19 15:45:07 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Bienvenida.JPG
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpm0EIAx
+            [error] => 0
+            [size] => 1449666
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 04
+    [height] => 235
+    [crop] => false
+    [idorigen] => 2
+)
+
+=== 2014-06-19 15:45:55 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => City Express Hoteles.JPG
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpGw9MUe
+            [error] => 0
+            [size] => 1873117
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 04
+    [height] => 235
+    [crop] => false
+    [idorigen] => 2
+)
+
+=== 2014-06-19 15:46:52 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => IMG_3952.JPG
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpeLBsUA
+            [error] => 0
+            [size] => 1519598
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload-data.php
+    [tipoorg] => 04
+    [height] => 235
+    [crop] => false
+    [idorigen] => 2
+)
+
+=== 2014-11-14 13:48:20 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => logo-gm.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpr8YPvX
+            [error] => 0
+            [size] => 22882
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+
